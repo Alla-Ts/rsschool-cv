@@ -33,5 +33,3 @@ _Russian - Advanced_
 _Ukrainian - Native_
 _English - Pre-intermediate_
 
-
-

@@ -1,0 +1,52 @@
+.body{
+    width:1400px;
+    height:900px;
+    top:0px;
+    left:0px;
+    position:absolute;
+    justify-content: center;
+    background-image: url("pastel-fon-oboi-2880x1800-11555_8.jpg");
+}
+
+.header{
+    width:700px;
+	height:400px;
+	position:absolute;
+	top:20px;
+    left:500px;
+    
+    
+}
+.photo{
+    width:200px;
+    height:240px;
+    top:20px;
+    left:40px;
+    position:absolute;
+    background-image: url("photo.jpg");
+}
+.contacts{
+    width:300px;
+    height:300px;
+    top:300px;
+    left:20px;
+    position:absolute;
+    text-align: left;
+    font-style: italic;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    padding:5px 5px 5px 5px;
+
+}
+.main{
+    width:700px;
+    height:400px;
+    top:300px;
+    left:450px;
+    position:absolute;
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
